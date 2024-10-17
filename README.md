@@ -1,54 +1,42 @@
-# WordSparkle 
+# WordSparkle
 
-"WordSparkle, dil öğrenme sürecini eğlenceli ve etkili hale getiren bir mobil uygulamadır. Uygulama, kullanıcıların kelimeleri eklerken hem görsel hem de pratik kullanım örnekleriyle desteklenen bir ortam sağlar. Ayrıca, kullanıcıların öğrendikleri kelimeleri kalıcı hale getirmelerine yardımcı olmak için özel olarak tasarlanmış test modülü, 6 defa tekrar prensibi üzerine kuruludur. Başarı modülü, kullanıcıların öğrenme ilerlemelerini izlemelerine ve kelimelerin başarı oranlarını görmelerine olanak tanır. WordSparkle, dil öğrenme deneyimini kişiselleştirilmiş ve eğlenceli bir şekilde sunarak, kullanıcıların hedeflerine daha hızlı ve daha keyifli bir şekilde ulaşmalarını sağlar."
+"WordSparkle is a mobile application that makes the language learning process enjoyable and effective. The app provides an environment where users can add words supported by both visual and practical usage examples. Additionally, it features a specially designed test module based on the principle of 6 repetitions to help users retain the words they have learned. The achievement module allows users to track their learning progress and see the success rates of the words. By offering a personalized and fun language learning experience, WordSparkle enables users to reach their goals faster and more enjoyably."
 
-
-## Giriş ve Kayıt Ol
-
-1. **Giriş Yap:** Uygulamayı kullanabilmek için kullanıcı girişi yapın. Kullanıcı adı ve şifrenizle giriş yapabilirsiniz.
-
-2. **Kayıt Ol:** Henüz bir hesabınız yoksa, kayıt olun. Gerekli bilgileri doldurarak yeni bir hesap oluşturun.
-
-## Ana Ekran
-
-1. **Kelime Ekleme Modülü:** Bu bölümde, yeni kelimeler ekleyebilirsiniz.
-   - **Kelime Ekle:** İngilizce kelimeyi, Türkçe karşılığını, İngilizce bir cümle içinde kullanımını ve  bir resmi ekleyin.
+1. Login and Sign Up
    
+Log In: Log in to use the application. You can log in with your username and password.
+Sign Up: If you don’t have an account yet, sign up. Fill in the necessary information to create a new account.
 
-2. **Test Modülü:** Bu bölümde, eklediğiniz kelimelerle test yapabilirsiniz.
-   - **Test Et:** Eklediğiniz kelimelerle 6 defa tekrar prensipli test yapın ve kelimeleri pekiştirin.
-
-3. **Başarı Modülü:** Bu bölümde, kelimelerin başarı oranlarını görebilirsiniz.
-   - **Başarı Oranları:** Her kelimenin başarı oranı görüntülenir. Başarı oranı, kelimenin doğru cevaplanma yüzdesini temsil eder.
-
-## Ayarlar
-
-1. **Günlük Kelime Limiti:** Günlük öğrenmek istediğiniz yeni kelime sayısını ayarlayın.
-   - **Değiştir:** Günlük kelime limitini istediğiniz miktarda değiştirin.
-
-## 6 Defa Tekrar Prensibi
-
-Uygulamamızdaki test modülü, kullanıcıların öğrendikleri kelimeleri kalıcı olarak pekiştirmelerine yardımcı olmak için "6 defa tekrar prensibi"ni kullanır. Bu prensibe göre:
-
-1. **Tekrar Edilen Testler:** Her bir kelime için, kullanıcıya aynı soru altı kez üst üste sorulur.
+2. Main Screen
    
-2. **Doğru Cevap:** Kullanıcı, aynı soruya altı kez doğru cevap vermelidir.
+Word Addition Module: In this section, you can add new words.
 
-3. **Hatalı Cevap Durumu:** Eğer kullanıcı altı kez doğru cevap vermezse, soru tekrar başa döner ve altı kez daha doğru cevaplanması beklenir.
+Add Word: Enter the English word, its Turkish equivalent, an example sentence in English, and attach an image.
+Test Module: In this section, you can take tests using the words you added.
 
-4. **Soru Havuzuna Taşıma:** Eğer kullanıcı altı kez doğru cevap verirse, o soru bilinen soru havuzuna taşınır.
+Test Yourself: Take tests based on the principle of 6 repetitions with the words you added to reinforce your learning.
+Achievement Module: In this section, you can view the success rates of your words.
 
-5. **Tekrar Süresi:** Bilinen bir sorunun tekrar test edilme zamanı belirlidir. Bu zaman aralıkları şunlardır: 1 gün sonra, 1 hafta sonra, 1 ay sonra, 3 ay sonra, 6 ay sonra ve 1 yıl sonra. Bu süreler, öğrenilen bilginin uzun süreli bellekte kalıcılığını sağlamak için optimize edilmiştir.
+Success Rates: The success rate for each word is displayed. The success rate represents the percentage of correct responses for the word.
 
-Bu prensip, öğrenilen kelimelerin uzun vadeli hatırlanmasını sağlamak için etkili bir yöntemdir.
 
-## İletişim ve Destek
+3. Settings
+   
+Daily Word Limit: Set the number of new words you want to learn daily.
+Change: Modify your daily word limit to the desired amount.
 
-1. **Yardım ve Geri Bildirim:** Herhangi bir sorunuz veya geri bildiriminiz mi var? Lütfen bizimle iletişime geçmekten çekinmeyin.
-   - **Destek ve Geribildirim İçin:** kaderoguzz1981@gmail.com
-     
-  
+4. 6 Repetition Principle
+   
+The test module in our application uses the "6 repetition principle" to help users retain the words they have learned permanently. According to this principle:
 
----
+Repeated Tests: For each word, the same question is asked to the user six times in a row.
+Correct Answer: The user must answer the same question correctly six times.
+Incorrect Answer Scenario: If the user does not answer correctly six times, the question goes back to the beginning, and the user is expected to answer it correctly six more times.
+Moving to Known Question Pool: If the user answers correctly six times, that question is moved to the known question pool.
+Repetition Timing: The time for retesting a known question is predetermined. The intervals for this timing are: 1 day later, 1 week later, 1 month later, 3 months later, 6 months later, and 1 year later. These timeframes are optimized to ensure the long-term retention of learned information in long-term memory.
+This principle is an effective method for ensuring the long-term recall of learned words.
 
-Bu README.md dosyası, WordSparkle uygulamasını kullanmanıza yardımcı olacak temel bilgileri içermektedir.
+#Contact and Support
+Help and Feedback: Do you have any questions or feedback? Please feel free to contact us.
+For Support and Feedback: kaderoguzz1981@gmail.com
+

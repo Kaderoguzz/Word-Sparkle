@@ -45,7 +45,8 @@ Bu prensip, öğrenilen kelimelerin uzun vadeli hatırlanmasını sağlamak içi
 ## İletişim ve Destek
 
 1. **Yardım ve Geri Bildirim:** Herhangi bir sorunuz veya geri bildiriminiz mi var? Lütfen bizimle iletişime geçmekten çekinmeyin.
-   - **Destek ve Geribildirim İçin:** salcidilaraselin@gmail.com
+   - **Destek ve Geribildirim İçin:** kaderoguzz1981@gmail.com
+     
   
 
 ---

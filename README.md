@@ -37,6 +37,7 @@ Repetition Timing: The time for retesting a known question is predetermined. The
 This principle is an effective method for ensuring the long-term recall of learned words.
 
 #Contact and Support
+
 Help and Feedback: Do you have any questions or feedback? Please feel free to contact us.
 For Support and Feedback: kaderoguzz1981@gmail.com
 

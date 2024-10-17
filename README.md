@@ -40,3 +40,5 @@ This principle is an effective method for ensuring the long-term recall of learn
 Help and Feedback: Do you have any questions or feedback? Please feel free to contact us.
 For Support and Feedback: kaderoguzz1981@gmail.com
 
+This README.md file contains essential information to help you use the WordSparkle application.
+
